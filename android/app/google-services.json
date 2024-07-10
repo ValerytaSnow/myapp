@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "55078744372",
+    "project_id": "newdb2024",
+    "storage_bucket": "newdb2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55078744372:android:5567b1447bbf5b3acbb561",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-PK9TELk4PUoEIv_muq5bR9uQjA82ZQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
